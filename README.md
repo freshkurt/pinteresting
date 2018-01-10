@@ -1,5 +1,7 @@
 # Me doing the One Month rails tutorial
 
+this is a change
+
 This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com)
 
